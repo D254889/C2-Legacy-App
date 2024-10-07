@@ -4,8 +4,7 @@
 </footer>
 
 
-
-<!-- analytics code -->
+<!-- analytics code -->              
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -20,10 +19,10 @@
 </script>
 <!-- Einde analytics code -->
 
-<script language="Javascript" type="text/javascript">
-
- if (top.location!= self.location) {
+<script language="Javascript" type="text/javascript"> 
+ 
+ if (top.location!= self.location) { 
   top.location = self.location.href
- }
-
+ } 
+ 
 </script>
